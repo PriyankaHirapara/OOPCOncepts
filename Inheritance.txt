@@ -1,3 +1,11 @@
+<<<<<<< .mine
+This is the file for inheritance.
+
+
+ferejgfgjgifjfdjfjgjgjujjurfdrud
+=======
 This is the file for inheritance.
 
 Add a new Line.
+
+>>>>>>> .theirs
